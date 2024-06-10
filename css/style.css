@@ -36,7 +36,7 @@ body {
     justify-content: space-between;
     align-items: center;
     height: 70px;
-    /*background-color: rgba(15, 14, 14, 0.438);*/
+    background-color: rgba(15, 14, 14, 0.438);
     padding-left: 4rem;
     padding-right: 4rem;
     padding-top: 2rem;
