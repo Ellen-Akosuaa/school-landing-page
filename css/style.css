@@ -10,7 +10,7 @@ body {
     background-position: center;
     background-size: cover;
     height: 70vh;
-    padding: 2rem 7rem;
+    /*padding: 2rem 7rem;*/
     font-family: 'Times New Roman', Times, serif;
     padding-bottom: 25rem;
 }
@@ -36,7 +36,11 @@ nav {
     justify-content: space-between;
     align-items: center;
     height: 70px;
-    background-color: none;
+    background-color: rgba(15, 14, 14, 0.438);
+    padding-left: 4rem;
+    padding-right: 4rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
 }
 
 .nav-item {
@@ -51,6 +55,8 @@ nav {
 }
 
 .header-text {
+    padding-left: 4rem;
+    padding-right: 4rem;
     color: white;
     font-size: 25pt;
     margin-top: 12rem;
@@ -61,6 +67,8 @@ nav {
 }
 
 .hb {
+    padding-left: 4rem;
+    padding-right: 4rem;
     margin-top: 10rem;
 }
 
